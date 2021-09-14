@@ -1,1 +1,1 @@
-# coq-art-solutions
+# Coq'Art Solutions
